@@ -15,7 +15,7 @@ II. Event Window Analysis:
 
       1. Simple plotting of 5-day windows before and after the budget announcement for both NSE and BSE indices.
       2. Simple plotting of fortnight(14 days) windows before and after the budget announcement for both NSE and BSE indices.
-      3. Ploting of moving average computed with lag of 3 on fortnight(14 days) windows before and after the budget announcement for both NSE and BSE indices  to reduce               short-term market noise.
+      3. Ploting of moving average computed with lag of 3 on fortnight(14 days) windows before and after the budget announcement for both NSE and BSE indices  to reduce      short-term market noise.
 
 Visualization:
 
